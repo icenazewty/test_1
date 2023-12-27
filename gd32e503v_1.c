@@ -627,3 +627,6 @@ void lcd_char_display(uint16_t x,uint16_t y,uint8_t c,char_format_struct c_forma
         }
     }
 }
++123
++123
+
